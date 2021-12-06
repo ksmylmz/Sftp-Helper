@@ -9,7 +9,7 @@ composer require kasim.yilmaz/sftp-helper
 ### 2- Initialize
 
 ````php
-$sftp_serfer = "ftp.ftp.com";
+$ftp_server = "ftp.ftp.com";
 $port = "22";
 $username = "username";
 $password = "password";
