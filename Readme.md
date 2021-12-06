@@ -1,5 +1,10 @@
 ### 1- Installation
-
+````
+composer require kasim.yilmaz/sftp-helper
+````
+<br>
+<br>
+<br>
 
 ### 2- Initialize
 
