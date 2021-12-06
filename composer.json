@@ -1,0 +1,17 @@
+{
+    "name": "kasim.yilmaz/sftp-helper",
+    "description": "Sftp connection, upload, movement, delete actions",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Kasım YILMAZ",
+            "email": "kasim-yilmaz@hotmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "ksmylmz\\SftpHelper\\": "src/"
+        }
+    },
+    "require": {}
+}
