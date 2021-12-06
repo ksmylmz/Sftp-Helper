@@ -6,6 +6,8 @@
  * @modify date 2021-11-17 13:51:58
  * @desc [description]
  */
+namespace ksmylmz\SftpHelper;
+
 class SftpHelper
 {    
     /**
